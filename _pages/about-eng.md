@@ -4,6 +4,7 @@ permalink: /eng/
 title: "AcademicHomepage"
 excerpt: ""
 author_profile: true
+avatar: /images/avatar-eng.jpg
 redirect_from: 
   - /about-eng/
   - /about-eng.html
