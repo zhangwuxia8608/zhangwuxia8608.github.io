@@ -3,6 +3,4 @@ layout: page
 permalink: /
 author_profile: true
 ---
-
-{% include about-home.md %}
-
+{% include_relative _pages/about.md %}
