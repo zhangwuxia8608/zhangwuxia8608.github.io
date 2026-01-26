@@ -1,12 +1,10 @@
 ---
-permalink: /
-title: ""
-excerpt: ""
+layout: page
+title: About
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -21,7 +19,7 @@ redirect_from:
 
 先后主持了国家自然科学基金面上项目1项、青年项目1项、陕西省重点研发项目1项、陕西省教育厅专项1项、重点实验室开放基金项目1项、横向项目10余项。作为主要参与者参与了国家自然科学基金杰出青年项目、面上项目、国防科工局项目、中科院拔尖人才项目等多个项目。
 
-近年在本领域权威期刊TGRS、IJAEOG、GRSL、RS和CVIU上发表学术论文30余篇，申请和授权发明专利10余项。担任多个遥感领域权威期刊的审稿人，并荣获2018和2020年度Neurocomputing期刊的“杰出审稿人”称号，西安邮电大学学报青年科技编辑。获西安邮电大学“2025年优秀导师称号“。
+近年在本领域权威期刊TGRS、IJAEOG、GRSL、RS和CVIU上发表学术论文30余篇，申请和授权发明专利10余项。担任多个遥感领域权威期刊的审稿人，并荣获2018和2020年度Neurocomputing期刊的“杰出审稿人”称号，西安邮电大学学报青年科技编辑。获西安邮电大学“2025年优秀导师称号”。
 
 所带研究生获得国家级奖学金、西安邮电大学研究生创新项目、电子设计大赛、计算机设计大赛、数据建模等多个奖项、校优秀毕业生等。与西北工业大学、西安电子科技大学、长安大学、中国科学院、Rensselaer Polytechnic University的计算机视觉科研团队，以及华为等多家公司的目标检测与识别团队建立了长期深入的交流合作。
 
@@ -85,7 +83,7 @@ Email：zhangwuxia@xupt.edu.cn，wuxiazhang100@126.com
 
 - <b >Zhang W</b>, Lu X, Li X. Similarity constrained convex nonnegative matrix factorization for hyperspectral anomaly detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2019, 57(7): 4810-4822.
 
-- <b >Zhang W</b>, Lu X. The spectral-spatial joint learning for change detection in multispectral imagery[J]. Remote Sensing, 2019, 11(3): 240.F A)
+- <b >Zhang W</b>, Lu X. The spectral-spatial joint learning for change detection in multispectral imagery[J]. Remote Sensing, 2019, 11(3): 240.
 
 - <b >Zhang W</b>, Lu X, Li X. A coarse-to-fine semi-supervised change detection for multispectral images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(6): 3587-3599.
 
@@ -139,4 +137,4 @@ Email：zhangwuxia@xupt.edu.cn，wuxiazhang100@126.com
 <span class='anchor' id='-team'></span>
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=DDT6mvG6VlcE8DF1mVi2xHzsa78VCQ-uYUpUWbtFGEo'></script>
+<script type='text/javascript' id='clustrmaps' src='https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=DDT6mvG6VlcE8DF1mVi2xHzsa78VCQ-uYUpUWbtFGEo'></script>
