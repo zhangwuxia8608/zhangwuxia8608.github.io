@@ -3,8 +3,6 @@ layout: page
 title: About
 permalink: /about/
 author_profile: true
----
-
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -26,6 +24,7 @@ author_profile: true
 欢迎以下学生报考：
 1. 专业知识扎实，数学和英语基础好，逻辑思维强，做事踏实、认真负责；
 2. 有一定的编程基础，对人工智能、图像处理、目标检测与识别感兴趣；
+
 Email：zhangwuxia@xupt.edu.cn，wuxiazhang100@126.com
 
 # 🎓 学习和工作经历
